@@ -1,37 +1,42 @@
 # 项目名称
+Easy Robot
 
-*这里写项目的各类介绍信息、背景、动机等内容*
+## 项目简介
+”easy robot“是一个致力于向小学中高年龄段儿童介绍机器人及图形化编程的项目。该项目旨在通过向儿童讲解图形化编程并与机器狗进行实时互动，帮助儿童认识、了解编程，并进一步接触人工智能的相关知识。项目内容可能但不限于机器人基本知识、图形化编程以及生活中的强化学习理解。
+同时为想要开展人工智能教育的小学教师提供了一个成熟可靠的方案。
+
+## 立项理由 
+人工智能在教育界已经引起了热潮，但是关于人工智能教育，特别是小学人工智能教育仍缺乏简单直观的相关项目。本项目希望通过教授简单的机器人组成，讲解基础编程，并通过与机器狗的实时互动接触了解强化学习。该项目希望通过系列课程，建构小学生对于人工智能的认知，并传授编程的核心思想。
+
 
 ## 项目受众
 
-*注：这里写你的项目所面向的受众，本项目能给他们带来什么，对他们的基础能力要求有哪些*
+中低年龄段对于编程感兴趣的儿童，以及想要接触人工智能教育的小学教师。
 
+# 项目规划
 ## 目录
 
-*这里写你的项目目录，已完成的部分用添加上跳转链接*
+- [第1章 认识机器狗](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter1/chapter1.md)
+- [第2章  机器人编程入门](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter2)
+  - [2.1 机器人编程入门](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter2/chapter2_1.md)
+  - [2.2 机器狗编程实战](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter2/chapter2_2.md)
+- [第3章 生活中的强化学习](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter3)
+  - [3.1 来自生活的强化学习](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter3/chapter3_1)
+  - [3.2 认识强化学习](https://github.com/datawhalechina/ )
+  - [3.3 入门实践](https://github.com/datawhalechina/ )
 
-- [第1章](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter1/chapter1.md)
-- [第2章](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter2)
-  - [2.1 我是2.1的标题](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter2/chapter2_1.md)
-  - [2.2 我是2.2的标题](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter2/chapter2_2.md)
-- [第3章](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter3)
-  - [3.1 我是3.1的标题](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter3/chapter3_1)
-    - [3.1.1 我是3.1.1的标题](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter3/chapter3_1/chapter3_1_1.md)
-    - [3.1.2 我是3.1.2的标题](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter3/chapter3_1/chapter3_1_2.md)
-  - 3.2 我是3.2的标题
-- 第4章
-  - 4.1 我是4.1的标题
-  - 4.2 我是4.2的标题
+## 项目亮点
+同时兼顾了基础图形化编程的知识以及人工智能普及教育
+补充了Datawhale目前在小学人工智能教育上的空白
 
 ## 贡献者名单
 
-| 姓名 | 职责 | 简介 |
-| :----| :---- | :---- |
-| 小明 | 项目负责人 | 一个理想主义者 |
-| 小红 | 第1章贡献者 | 小明的朋友 |
-| 小强 | 第2章贡献者 | 小明的朋友 |
+| 姓名          | 职责 | 主页                             |
+|:------------| :---- |:-------------------------------|
+| Kechen Li   | 项目负责人 | https://github.com/Joe-2002    |
+| Yaotian Tao | 项目顾问 | https://github.com/TonySilva47 |
 
-*注：表头可自定义，但必须在名单中标明项目负责人*
+
 
 ## 参与贡献
 
