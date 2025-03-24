@@ -1,0 +1,5 @@
+title: Easy Robot
+description: 面向中小学生的机器人教育项目
+theme: jekyll-theme-cayman
+markdown: kramdown
+baseurl: "/easy-robot" 
