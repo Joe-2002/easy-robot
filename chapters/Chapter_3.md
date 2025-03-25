@@ -2,25 +2,25 @@
 ## 3.1 基本操作入门
 上节课我们完成了机器狗的组装，今天我们就来让机器狗动起来，老师今天带大家学习操作机器狗。
 
-<video src="./videos/操作.mp4" controls="controls" width="300" height="500"></video>
+<video src="../videos/操作.mp4" controls="controls" width="300" height="500"></video>
 
 ### 一、连接手机/平板
 
 1. 机器狗开机发出xiaogui-xxxx的wifi；  
 2. 打开手机/平板wlan列表，连接该wifi；  
 
-<img src="./figures/Chapter3/wifi连接.jpg" alt="wifi连接" style="width:300px; height:auto;">
+<img src="../figures/Chapter3/wifi连接.jpg" alt="wifi连接" style="width:300px; height:auto;">
 
 3. 等待页面自动跳转；  
 
-<img src="./figures/Chapter3/操作页面.jpg" alt="操作页面" style="width:300px; height:auto;">
+<img src="../figures/Chapter3/操作页面.jpg" alt="操作页面" style="width:300px; height:auto;">
 
 4. 如果没有自动跳转，手动打开浏览器，输入192.168.4.1。
 
 ### 二、准备活动-腿的调平
 1. 由首页进入调平
 
-<img src="./figures/Chapter3/调平.jpg" alt="调平" style="width:300px; height:auto;">
+<img src="../figures/Chapter3/调平.jpg" alt="调平" style="width:300px; height:auto;">
 
 2. 点击开始，等待自动校准完成
 
@@ -33,11 +33,11 @@
 ## 3.2 手柄使用方法
 这一节课我们主要使用手柄来学习操作流程，大家先拿出手柄按照下面的步骤连接机器狗：
 
-<img src="./figures/Chapter3/手柄连接.jpg" alt="手柄连接" style="width:300px; height:auto;">
+<img src="../figures/Chapter3/手柄连接.jpg" alt="手柄连接" style="width:300px; height:auto;">
 
 ### 熟悉手柄
 
-<img src="./figures/Chapter3/手柄图.jpg" alt="手柄图" style="width:300px; height:auto;">
+<img src="../figures/Chapter3/手柄图.jpg" alt="手柄图" style="width:300px; height:auto;">
 
 1. 左滑杆-基础移动
 2. 右滑杆-姿态调整
@@ -105,7 +105,7 @@
 
 ---
 
-## Tips:如何让学生探索并记录操作方式
+### Tips:如何让学生探索并记录操作方式
 
 1. **初步熟悉设备**  
    - 老师先向学生介绍手柄和控制界面上各种按钮（左/右摇杆、十字键、技能键等）的分布和作用，并展示机器狗的基本反应。  
@@ -134,7 +134,7 @@
 ---
 
 
-## 3.4 小挑战-排除险情
+## 3.3 小挑战-排除险情
 
 通过今天的学习，我们来进行一个有趣的小挑战 —— **"推倒快递盒大作战"**。  
 本次挑战不仅考验大家对机器狗控制操作的熟练度，还需要大家发挥团队协作精神，制定合理的操控策略。请各小组按照以下要求进行挑战尝试：

@@ -9,15 +9,15 @@
 ### 编写循环结构程序
 1、连接机器狗，打开操作界面，点击图形编程。
 
-<img src="./figures/Chapter5/操作界面.jpg" alt="操作界面" style="width:300px; height:auto;">
+<img src="../figures/Chapter5/操作界面.jpg" alt="操作界面" style="width:300px; height:auto;">
 
 2、在侧栏中选择控制，拖出循环模块到编辑区。
 
-<img src="./figures/Chapter6/循环模块.jpg" alt="循环模块" style="width:300px; height:auto;">
+<img src="../figures/Chapter6/循环模块.jpg" alt="循环模块" style="width:300px; height:auto;">
 
 3、将选择的操作按照Chapter5活动2中流程图顺序拼接在一起。
 
-<img src="./figures/Chapter6/循环编程.jpg" alt="循环编程" style="width:300px; height:auto;">
+<img src="../figures/Chapter6/循环编程.jpg" alt="循环编程" style="width:300px; height:auto;">
 
 4、点击执行。
 
@@ -54,19 +54,19 @@
 ### 编写选择结构程序
 1、连接机器狗，打开操作界面，点击图形编程。
 
-<img src="./figures/Chapter5/操作界面.jpg" alt="操作界面" style="width:300px; height:auto;">
+<img src="../figures/Chapter5/操作界面.jpg" alt="操作界面" style="width:300px; height:auto;">
 
 2、在侧栏中选择控制，拖出拍拍手和抬后腿模块到编辑区。
 
-<img src="./figures/Chapter6/分支模块.png" alt="分支模块" style="width:300px; height:auto;">
+<img src="../figures/Chapter6/分支模块.png" alt="分支模块" style="width:300px; height:auto;">
 
 3、将选择的操作按照图中的顺序拼接在一起。
 
-<img src="./figures/Chapter6/分支编程.png" alt="分支编程" style="width:300px; height:auto;">
+<img src="../figures/Chapter6/分支编程.png" alt="分支编程" style="width:300px; height:auto;">
 
 4、点击执行。
 
-### 活动二：手势指令分支编程训练
+#### 活动二：手势指令分支编程训练
 
 **任务要求：**  
 设计一个程序，当机器狗接收到不同手势指令时，执行对应的动作。以下手势指令及对应动作如下：  
