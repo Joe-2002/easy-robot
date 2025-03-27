@@ -2,7 +2,7 @@
 ## 4.1 基本功夫动作
 上节课老师带大家让机器狗动起来了，其实机器狗除了上节课学习的动作，他还是一只会功夫的机器狗，今天老师就带大家学习操作机器狗打出功夫。
 
-<video src="../videos/功夫.mp4" controls="controls" width="300" height="500"></video>
+<video src="./videos/功夫.mp4" controls="controls" width="300" height="500"></video>
 
 ### 1. 组合技能操作
 
