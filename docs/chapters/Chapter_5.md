@@ -11,7 +11,7 @@
 
 谁能看图操作机器狗实现下面图中的步骤？
 
-![顺序结构图](./figures/Chapter5/顺序结构.png){:width:300px; height:800px;}
+![顺序结构图](./figures/Chapter5/顺序结构.png)
 
 操作后进行活动：
 
@@ -42,7 +42,7 @@
 操作示范:  
 开机->走一步->走三步了吗？没有->走一步->走三步了吗？没有->走一步->走三步了吗？有->停止
 
-![循环结构图](./figures/Chapter5/循环结构.png){:width:300px; height:auto;}
+![循环结构图](./figures/Chapter5/循环结构.png)
 
 ---
 
@@ -74,7 +74,7 @@
 
 我们会根据遇到的情况，选择不同的方法解决问题。
 
-![分支结构图](./figures/Chapter5/分支结构.png){:width:300px; height:auto;}
+![分支结构图](./figures/Chapter5/分支结构.png)
 
 **任务要求：**  
 1. 设计一个简单的避障操作流程，当机器狗在前行过程中遇到障碍时，能够自动判断并采取不同的避障策略（如左转或右转）。  
@@ -102,13 +102,13 @@
 
 1、连接机器狗，打开操作界面，点击图形编程。
 
-![操作界面](./figures/Chapter5/操作界面.jpg){:width:300px; height:auto;}
+![操作界面](./figures/Chapter5/操作界面.jpg)
 
 2、在侧栏中选择操作。
 
 3、将选择的操作按照活动1中流程图顺序拼接在一起。
 
-![循环结构图](./figures/Chapter5/顺序结构编程.png){:width:300px; height:auto;}
+![循环结构图](./figures/Chapter5/顺序结构编程.png)
 
 
 4、点击执行。

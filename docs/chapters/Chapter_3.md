@@ -9,18 +9,18 @@
 1. 机器狗开机发出xiaogui-xxxx的wifi；  
 2. 打开手机/平板wlan列表，连接该wifi；  
 
-![wifi连接](./figures/Chapter3/wifi连接.jpg){:width:300px; height:auto;}
+![wifi连接](./figures/Chapter3/wifi连接.jpg)
 
 3. 等待页面自动跳转；  
 
-![操作页面](./figures/Chapter3/操作页面.jpg){:width:300px; height:auto;}
+![操作页面](./figures/Chapter3/操作页面.jpg)
 
 4. 如果没有自动跳转，手动打开浏览器，输入192.168.4.1。
 
 ### 二、准备活动-腿的调平
 1. 由首页进入调平
 
-![调平](./figures/Chapter3/调平.jpg){:width:300px; height:auto;}
+![调平](./figures/Chapter3/调平.jpg)
 
 2. 点击开始，等待自动校准完成
 
@@ -33,11 +33,11 @@
 ## 3.2 手柄使用方法
 这一节课我们主要使用手柄来学习操作流程，大家先拿出手柄按照下面的步骤连接机器狗：
 
-![手柄连接](./figures/Chapter3/手柄连接.jpg){:width:300px; height:auto;}
+![手柄连接](./figures/Chapter3/手柄连接.jpg)
 
 ### 熟悉手柄
 
-![手柄图](./figures/Chapter3/手柄图.jpg){:width:300px; height:auto;}
+![手柄图](./figures/Chapter3/手柄图.jpg)
 
 1. 左滑杆-基础移动
 2. 右滑杆-姿态调整

@@ -9,15 +9,15 @@
 ### 编写循环结构程序
 1、连接机器狗，打开操作界面，点击图形编程。
 
-![操作界面](./figures/Chapter5/操作界面.jpg){:width:300px; height:auto;}
+![操作界面](./figures/Chapter5/操作界面.jpg)
 
 2、在侧栏中选择控制，拖出循环模块到编辑区。
 
-![循环模块](./figures/Chapter6/循环模块.jpg){:width:300px; height:auto;}
+![循环模块](./figures/Chapter6/循环模块.jpg)
 
 3、将选择的操作按照Chapter5活动2中流程图顺序拼接在一起。
 
-![循环编程](./figures/Chapter6/循环编程.jpg){:width:300px; height:auto;}
+![循环编程](./figures/Chapter6/循环编程.jpg)
 
 4、点击执行。
 
@@ -54,15 +54,15 @@
 ### 编写选择结构程序
 1、连接机器狗，打开操作界面，点击图形编程。
 
-![操作界面](./figures/Chapter5/操作界面.jpg){:width:300px; height:auto;}
+![操作界面](./figures/Chapter5/操作界面.jpg)
 
 2、在侧栏中选择控制，拖出拍拍手和抬后腿模块到编辑区。
 
-![分支模块](./figures/Chapter6/分支模块.png){:width:300px; height:auto;}
+![分支模块](./figures/Chapter6/分支模块.png)
 
 3、将选择的操作按照图中的顺序拼接在一起。
 
-![分支编程](./figures/Chapter6/分支编程.png){:width:300px; height:auto;}
+![分支编程](./figures/Chapter6/分支编程.png)
 
 4、点击执行。
 
