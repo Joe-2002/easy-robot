@@ -29,6 +29,20 @@
       subMaxLevel: 3,
       // 小屏设备下合并导航栏到侧边栏
       mergeNavbar: true,
+      // 启用相对路径
+      relativePath: true,
+      // 图片根路径，根据你的GitHub Pages URL设置
+      // 如果你的仓库名是 easy-robot，取消下面这行的注释并修改
+      basePath: '/easy-robot/',
+      // 图片路径处理插件
+      plugins: [
+        function(hook, vm) {
+          hook.beforeEach(function(content) {
+            // 替换图片路径中的 "../figures/" 为 "./figures/"
+            return content.replace(/\.\.\/figures\//g, './figures/');
+          });
+        }
+      ],
       // 搜索配置
       search: {
         maxAge: 86400000,
