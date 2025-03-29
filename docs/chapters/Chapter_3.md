@@ -2,25 +2,25 @@
 ## 3.1 基本操作入门
 上节课我们完成了机器狗的组装，今天我们就来让机器狗动起来，老师今天带大家学习操作机器狗。
 
-<video src="./videos/操作.mp4" controls="controls" width="300" height="500"></video>
+<video src="videos/操作.mp4" controls="controls" width="300" height="500"></video>
 
 ### 一、连接手机/平板
 
 1. 机器狗开机发出xiaogui-xxxx的wifi；  
 2. 打开手机/平板wlan列表，连接该wifi；  
 
-<img src="./figures/Chapter3/wifi连接.jpg" alt="wifi连接" style="width:300px; height:auto;">
+<img src="figures/Chapter3/wifi连接.jpg" alt="wifi连接" style="width:300px; height:auto;">
 
 3. 等待页面自动跳转；  
 
-<img src="./figures/Chapter3/操作页面.jpg" alt="操作页面" style="width:300px; height:auto;">
+<img src="figures/Chapter3/操作页面.jpg" alt="操作页面" style="width:300px; height:auto;">
 
 4. 如果没有自动跳转，手动打开浏览器，输入192.168.4.1。
 
 ### 二、准备活动-腿的调平
 1. 由首页进入调平
 
-<img src="./figures/Chapter3/调平.jpg" alt="调平" style="width:300px; height:auto;">
+<img src="figures/Chapter3/调平.jpg" alt="调平" style="width:300px; height:auto;">
 
 2. 点击开始，等待自动校准完成
 
@@ -33,11 +33,11 @@
 ## 3.2 手柄使用方法
 这一节课我们主要使用手柄来学习操作流程，大家先拿出手柄按照下面的步骤连接机器狗：
 
-<img src="../figures/Chapter3/手柄连接.jpg" alt="手柄连接" style="width:300px; height:auto;">
+<img src="figures/Chapter3/手柄连接.jpg" alt="手柄连接" style="width:300px; height:auto;">
 
 ### 熟悉手柄
 
-<img src="../figures/Chapter3/手柄图.jpg" alt="手柄图" style="width:300px; height:auto;">
+<img src="figures/Chapter3/手柄图.jpg" alt="手柄图" style="width:300px; height:auto;">
 
 1. 左滑杆-基础移动
 2. 右滑杆-姿态调整

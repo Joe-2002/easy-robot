@@ -24,17 +24,17 @@
 ### 一、机器狗的大脑(主控板介绍)
 大家先观察这个黑色的板子，它叫主控板。机器狗和我们人一样，一切行动都要听从大脑的指挥，这块主控板就是机器狗的大脑。我们可以通过手机或者平板电脑给他发送指令，由它给指挥机器够的各部分来完成运动。
 
-<img src="./figures/Chapter1/主控板.jpg" alt="主控板图" style="width:300px; height:auto;">
+<img src="figures/Chapter1/主控板.jpg" alt="主控板图" style="width:300px; height:auto;">
 
 我们可以通过编写不同的指令发送给主控板，再选择不同的部件组装用来满足不同的任务。比如老师通过编写指令让机器人摇身一变，让他变成了"足球运动员"。
 
-<img src="./figures/Chapter1/足球机器人.png" alt="足球机器人图" style="width:300px; height:auto;">
+<img src="figures/Chapter1/足球机器人.png" alt="足球机器人图" style="width:300px; height:auto;">
 
 ### 二、机器狗的关节(舵机介绍)
 我们刚才观察小龟机器狗有四条腿，你们想知道机器狗的每一条腿是怎样动起来的吗？  
 下面拿出像这样的部件，这个是舵机。小龟机器狗有四条腿运动，每条腿由这样一个舵机来驱动。舵机可以输出转动，并带动和它连接的腿一起运动，四个舵机就可以带动四条腿一起运动，从而实现机器狗的各种动作。  
 
-<img src="./figures/Chapter1/舵机.jpg" alt="主控板图" style="width:300px; height:auto;">
+<img src="figures/Chapter1/舵机.jpg" alt="主控板图" style="width:300px; height:auto;">
 
 舵机内部还有不少奥妙，透过外壳你们还发现了有哪些部件？  
 舵机包含变速齿轮， 一个小马达和电子控制板等。马达提供动力，变速齿轮搭配控制板可以根据编程旋转角度。
@@ -44,7 +44,7 @@
 我们平时玩的电动玩具需要安装什么？  
 没错是电池，运动需要能量，我们的机器狗也需要电池提供能量。机器狗的能量少了还可以补充，给电池充电，就像我们给手机充电一样。  
 
-<img src="./figures/Chapter1/电池.jpg" alt="主控板图" style="width:300px; height:auto;">
+<img src="figures/Chapter1/电池.jpg" alt="主控板图" style="width:300px; height:auto;">
 
 ### 四、机器狗的血管、神经(导线介绍)
 介绍完所有的电子部件，机器狗和小狗一样体内也需要用"血管"传输能量、用"神经"传输信号。  
