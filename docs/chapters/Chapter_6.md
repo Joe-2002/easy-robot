@@ -9,27 +9,15 @@
 ### 编写循环结构程序
 1、连接机器狗，打开操作界面，点击图形编程。
 
-<<<<<<< HEAD
-<img src="/easy-robot/docs/chapters/figures/Chapter5/操作界面.jpg" alt="操作界面" style="width:300px; height:auto;">
+![操作界面](./figures/Chapter5/操作界面.jpg){:width:300px; height:auto;}
 
 2、在侧栏中选择控制，拖出循环模块到编辑区。
 
-<img src="/easy-robot//figures/Chapter6/循环模块.jpg" alt="循环模块" style="width:300px; height:auto;">
+![循环模块](./figures/Chapter6/循环模块.jpg){:width:300px; height:auto;}
 
 3、将选择的操作按照Chapter5活动2中流程图顺序拼接在一起。
 
-<img src="/easy-robot//figures/Chapter6/循环编程.jpg" alt="循环编程" style="width:300px; height:auto;">
-=======
-<img src="figures/Chapter5/操作界面.jpg" alt="操作界面" style="width:300px; height:auto;">
-
-2、在侧栏中选择控制，拖出循环模块到编辑区。
-
-<img src="figures/Chapter6/循环模块.jpg" alt="循环模块" style="width:300px; height:auto;">
-
-3、将选择的操作按照Chapter5活动2中流程图顺序拼接在一起。
-
-<img src="figures/Chapter6/循环编程.jpg" alt="循环编程" style="width:300px; height:auto;">
->>>>>>> 1de44d4d949cb18fd336ae61deb0a3148abd198f
+![循环编程](./figures/Chapter6/循环编程.jpg){:width:300px; height:auto;}
 
 4、点击执行。
 
@@ -45,14 +33,14 @@
 
 1. **连接与设置：**  
    - 连接机器狗并打开操作界面，点击图形编程。  
-   - 在侧栏中找到并拖出“循环模块”到编辑区。
+   - 在侧栏中找到并拖出"循环模块"到编辑区。
 
 2. **编排动作：**  
    - 将功夫命令或移动命令放入循环模块中。  
    - 设置循环次数。
 
 3. **执行检测：**  
-   - 点击“执行”，观察机器狗是否按设定的循环次数依次完成动作。  
+   - 点击"执行"，观察机器狗是否按设定的循环次数依次完成动作。  
    - 记录观察结果，并思考循环模块如何帮助机器狗重复操作。
 
 **思考问题：**  
@@ -66,27 +54,15 @@
 ### 编写选择结构程序
 1、连接机器狗，打开操作界面，点击图形编程。
 
-<<<<<<< HEAD
-<img src="/easy-robot//figures/Chapter5/操作界面.jpg" alt="操作界面" style="width:300px; height:auto;">
+![操作界面](./figures/Chapter5/操作界面.jpg){:width:300px; height:auto;}
 
 2、在侧栏中选择控制，拖出拍拍手和抬后腿模块到编辑区。
 
-<img src="/easy-robot//figures/Chapter6/分支模块.png" alt="分支模块" style="width:300px; height:auto;">
+![分支模块](./figures/Chapter6/分支模块.png){:width:300px; height:auto;}
 
 3、将选择的操作按照图中的顺序拼接在一起。
 
-<img src="/easy-robot//figures/Chapter6/分支编程.png" alt="分支编程" style="width:300px; height:auto;">
-=======
-<img src="figures/Chapter5/操作界面.jpg" alt="操作界面" style="width:300px; height:auto;">
-
-2、在侧栏中选择控制，拖出拍拍手和抬后腿模块到编辑区。
-
-<img src="figures/Chapter6/分支模块.png" alt="分支模块" style="width:300px; height:auto;">
-
-3、将选择的操作按照图中的顺序拼接在一起。
-
-<img src="figures/Chapter6/分支编程.png" alt="分支编程" style="width:300px; height:auto;">
->>>>>>> 1de44d4d949cb18fd336ae61deb0a3148abd198f
+![分支编程](./figures/Chapter6/分支编程.png){:width:300px; height:auto;}
 
 4、点击执行。
 
@@ -105,10 +81,10 @@
 
 1. **连接与设置：**  
    - 连接机器狗并打开操作界面，进入图形编程模式。  
-   - 在侧栏中选择“控制”模块，将分支（选择结构）模块拖入到编辑区。
+   - 在侧栏中选择"控制"模块，将分支（选择结构）模块拖入到编辑区。
 
 2. **设计手势判断：**  
-   - 设置条件判断模块，每个条件分支检测一种手势信号，如“拍拍背”、“抬后腿”、“抬前腿”、“抬左边”、“抬右边”以及“翻过来”。  
+   - 设置条件判断模块，每个条件分支检测一种手势信号，如"拍拍背"、"抬后腿"、"抬前腿"、"抬左边"、"抬右边"以及"翻过来"。  
    - 在每个分支中拖入相应的动作模块，确保机器狗执行对应动作。
 
 3. **组装程序：**  
@@ -116,7 +92,7 @@
    - 检查各个流程是否正确连接，然后保存程序。
 
 4. **测试运行：**  
-   - 点击“执行”，依次通过手势传感器或教师示范发出各个手势。  
+   - 点击"执行"，依次通过手势传感器或教师示范发出各个手势。  
    - 观察机器狗是否按设计分别执行对应的动作，并记录实验结果。
 
 **思考问题：**  

@@ -8,6 +8,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <!-- 主题 -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <!-- 添加自定义样式 -->
+  <style>
+    /* 图片统一样式：居中显示，宽度400px，高度自动 */
+    .markdown-section img {
+      display: block;
+      margin: 0 auto;
+      max-width: 400px;
+      width: 400px;
+      height: auto;
+    }
+  </style>
 </head>
 <body>
   <div id="app">加载中...</div>
@@ -29,20 +40,6 @@
       subMaxLevel: 3,
       // 小屏设备下合并导航栏到侧边栏
       mergeNavbar: true,
-      // 启用相对路径
-      relativePath: true,
-      // 图片根路径，根据你的GitHub Pages URL设置
-      // 如果你的仓库名是 easy-robot，取消下面这行的注释并修改
-      basePath: '/easy-robot/',
-      // 图片路径处理插件
-      plugins: [
-        function(hook, vm) {
-          hook.beforeEach(function(content) {
-            // 替换图片路径中的 "../figures/" 为 "./figures/"
-            return content.replace(/\.\.\/figures\//g, './figures/');
-          });
-        }
-      ],
       // 搜索配置
       search: {
         maxAge: 86400000,
@@ -50,7 +47,18 @@
         placeholder: '搜索',
         noData: '未找到结果',
         depth: 6,
-      }
+      },
+      // // 启用相对路径
+      // relativePath: true,
+      // // 图片路径处理插件
+      // plugins: [
+      //   function(hook, vm) {
+      //     hook.beforeEach(function(content) {
+      //       // 替换图片路径，从 "figures/" 改为 "./figures/"
+      //       return content.replace(/\!\[([^\]]*)\]\(figures\//g, '![[$1]](./figures/');
+      //     });
+      //   }
+      // ],
     }
   </script>
   <!-- docsify的js依赖 -->
