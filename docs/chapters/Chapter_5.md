@@ -11,7 +11,11 @@
 
 谁能看图操作机器狗实现下面图中的步骤？
 
+<<<<<<< HEAD
 <img src="./figures/Chapter5/顺序结构.png" alt="顺序结构图" style="width:300px; height:800px;">
+=======
+<img src="figures/Chapter5/顺序结构.png" alt="顺序结构图" style="width:300px; height:800px;">
+>>>>>>> 1de44d4d949cb18fd336ae61deb0a3148abd198f
 
 操作后进行活动：
 
@@ -42,7 +46,11 @@
 操作示范:  
 开机->走一步->走三步了吗？没有->走一步->走三步了吗？没有->走一步->走三步了吗？有->停止
 
+<<<<<<< HEAD
 <img src="./figures/Chapter5/循环结构.png" alt="循环结构图" style="width:300px; height:auto;">
+=======
+<img src="figures/Chapter5/循环结构.png" alt="循环结构图" style="width:300px; height:auto;">
+>>>>>>> 1de44d4d949cb18fd336ae61deb0a3148abd198f
 
 ---
 
@@ -74,7 +82,11 @@
 
 我们会根据遇到的情况，选择不同的方法解决问题。
 
+<<<<<<< HEAD
 <img src="./figures/Chapter5/分支结构.png" alt="分支结构图" style="width:300px; height:auto;">
+=======
+<img src="figures/Chapter5/分支结构.png" alt="分支结构图" style="width:300px; height:auto;">
+>>>>>>> 1de44d4d949cb18fd336ae61deb0a3148abd198f
 
 **任务要求：**  
 1. 设计一个简单的避障操作流程，当机器狗在前行过程中遇到障碍时，能够自动判断并采取不同的避障策略（如左转或右转）。  
@@ -102,13 +114,21 @@
 
 1、连接机器狗，打开操作界面，点击图形编程。
 
+<<<<<<< HEAD
 <img src="./figures/Chapter5/操作界面.jpg" alt="操作界面" style="width:300px; height:auto;">
+=======
+<img src="figures/Chapter5/操作界面.jpg" alt="操作界面" style="width:300px; height:auto;">
+>>>>>>> 1de44d4d949cb18fd336ae61deb0a3148abd198f
 
 2、在侧栏中选择操作。
 
 3、将选择的操作按照活动1中流程图顺序拼接在一起。
 
+<<<<<<< HEAD
 <img src="./figures/Chapter5/顺序结构编程.png" alt="循环结构图" style="width:300px; height:auto;">
+=======
+<img src="figures/Chapter5/顺序结构编程.png" alt="循环结构图" style="width:300px; height:auto;">
+>>>>>>> 1de44d4d949cb18fd336ae61deb0a3148abd198f
 
 
 4、点击执行。
